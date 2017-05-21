@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: URL Admin Column
- * Plugin URI: https://github.com/srikat/URL-Admin-Column
- * Description: Adds a URL column in Media Library admin screen.
+ * Plugin Name: Image Download Admin Column
+ * Plugin URI: https://github.com/patric-boehner/Download-Image-Admin-Column
+ * Description: Adds a Download column in Media Library admin screen.
  * Version: 1.0.1
  * Author: Sridhar Katakam
  * Author URI: https://sridharkatakam.com/
