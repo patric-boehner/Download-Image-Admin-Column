@@ -3,7 +3,7 @@
  * Plugin Name: URL Admin Column
  * Plugin URI: https://github.com/srikat/URL-Admin-Column
  * Description: Adds a URL column in Media Library admin screen.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Sridhar Katakam
  * Author URI: https://sridharkatakam.com/
  * License:           GPL-2.0+
@@ -66,7 +66,7 @@ function sk_url_column_css() {
 	echo '<style>
 			@media only screen and (min-width: 1400px) {
 				.fixed .column-media_url {
-					width: 15%;
+					width: 10%;
 				}
 			}
 		</style>';
