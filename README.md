@@ -16,7 +16,8 @@ This WordPress plugin adds a Download column in the Media Library for easily dow
 
 ## Screenshots ##
 
-screenshot-1.jpg shows the Media Library screen with the plugin active.
+![shows the Media Library screen with the plugin active](https://github.com/patric-boehner/Download-Image-Admin-Column/blob/master/screenshot.png)
+screenshot.png shows the Media Library screen with the plugin active.
 
 ## Credits ##
 
