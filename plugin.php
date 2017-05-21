@@ -55,7 +55,7 @@ function sk_media_custom_column_url( $column_name ) {
 	}
 
 // 	echo '<input type="text" width="100%" onclick="jQuery(this).select();" value="' . wp_get_attachment_url() . '" />';
-	echo '<a href="' . wp_get_attachment_url() . '" download>' .esc_html('Download'). '</a>';
+	echo '<a href="' . wp_get_attachment_url() . '" class="button" download>' .esc_html('Download'). '</a>';
 }
 
 add_action( 'admin_print_styles-upload.php', 'sk_url_column_css' );
