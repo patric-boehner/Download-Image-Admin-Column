@@ -39,7 +39,7 @@ add_filter( 'manage_media_columns', 'sk_media_columns_url' );
  * @return array Amended array of columns to be displayed in the Media list table.
  */
 function sk_media_columns_url( $posts_columns ) {
-	$posts_columns['media_url'] = 'URL';
+	$posts_columns['media_url'] = 'Download';
 	return $posts_columns;
 }
 
