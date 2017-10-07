@@ -23,8 +23,7 @@ screenshot.png shows the Media Library screen with the plugin active.
 
 This is a fork of Sridhar Katakam's URL-Admin-Column
 - https://github.com/srikat/URL-Admin-Column
-
-http://wpsnipp.com/index.php/functions-php/media-library-url-column-for-easy-copy-and-paste/
+- http://wpsnipp.com/index.php/functions-php/media-library-url-column-for-easy-copy-and-paste/
 
 ## Changelog ##
 
